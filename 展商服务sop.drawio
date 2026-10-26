@@ -1,0 +1,169 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="PvSaUYJcBYGwxL6Fw9-J">
+    <mxGraphModel dx="1334" dy="1919" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rdEgycdn7zfWjSr_6BlY-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=none;strokeColor=default;dashed=1;strokeWidth=2;shadow=0;" value=" " vertex="1">
+          <mxGeometry height="497.5" width="630" x="250" y="-977.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rdEgycdn7zfWjSr_6BlY-6" edge="1" parent="1" source="rdEgycdn7zfWjSr_6BlY-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="rdEgycdn7zfWjSr_6BlY-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rdEgycdn7zfWjSr_6BlY-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="展中" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="-260" as="geometry" />
+        </mxCell>
+        <mxCell id="rdEgycdn7zfWjSr_6BlY-4" edge="1" parent="1" source="rdEgycdn7zfWjSr_6BlY-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="rdEgycdn7zfWjSr_6BlY-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rdEgycdn7zfWjSr_6BlY-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="展前" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="-840" as="geometry" />
+        </mxCell>
+        <mxCell id="rdEgycdn7zfWjSr_6BlY-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="展后" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rdEgycdn7zfWjSr_6BlY-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="前期调研" vertex="1">
+          <mxGeometry height="30" width="120" x="450" y="-895" as="geometry" />
+        </mxCell>
+        <mxCell id="rdEgycdn7zfWjSr_6BlY-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="策展思路&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="120" x="450" y="-760" as="geometry" />
+        </mxCell>
+        <mxCell id="rdEgycdn7zfWjSr_6BlY-30" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="120" width="120" x="600" y="-940" as="geometry" />
+        </mxCell>
+        <mxCell id="rdEgycdn7zfWjSr_6BlY-21" parent="rdEgycdn7zfWjSr_6BlY-30" style="rounded=1;whiteSpace=wrap;html=1;" value="往届反馈" vertex="1">
+          <mxGeometry height="30" width="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rdEgycdn7zfWjSr_6BlY-26" parent="rdEgycdn7zfWjSr_6BlY-30" style="rounded=1;whiteSpace=wrap;html=1;" value="数据分析&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="120" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="rdEgycdn7zfWjSr_6BlY-27" parent="rdEgycdn7zfWjSr_6BlY-30" style="rounded=1;whiteSpace=wrap;html=1;" value="&amp;nbsp;政策研读" vertex="1">
+          <mxGeometry height="30" width="120" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rdEgycdn7zfWjSr_6BlY-37" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="100" width="30" x="570" y="-930" as="geometry" />
+        </mxCell>
+        <mxCell id="rdEgycdn7zfWjSr_6BlY-38" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="250" width="50" x="400" y="-880" as="geometry" />
+        </mxCell>
+        <mxCell id="rdEgycdn7zfWjSr_6BlY-41" edge="1" parent="1" source="rdEgycdn7zfWjSr_6BlY-37" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.507;exitY=0.499;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="rdEgycdn7zfWjSr_6BlY-26" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="610" y="-790" as="sourcePoint" />
+            <mxPoint x="660" y="-840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rdEgycdn7zfWjSr_6BlY-53" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="60" width="30" x="570" y="-777.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rdEgycdn7zfWjSr_6BlY-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="合作网络&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="120" x="600" y="-787.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rdEgycdn7zfWjSr_6BlY-62" edge="1" parent="1" source="rdEgycdn7zfWjSr_6BlY-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;startArrow=none;startFill=0;endArrow=none;endFill=0;" target="rdEgycdn7zfWjSr_6BlY-61" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rdEgycdn7zfWjSr_6BlY-52" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="合作伙伴&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="120" x="600" y="-732.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rdEgycdn7zfWjSr_6BlY-57" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="产业/政府补贴政策&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="120" x="740" y="-850" as="geometry" />
+        </mxCell>
+        <mxCell id="rdEgycdn7zfWjSr_6BlY-58" edge="1" parent="1" source="rdEgycdn7zfWjSr_6BlY-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;startArrow=none;startFill=0;endArrow=none;endFill=0;" target="rdEgycdn7zfWjSr_6BlY-57" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rdEgycdn7zfWjSr_6BlY-61" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="产业/城市&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="120" x="740" y="-732.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rdEgycdn7zfWjSr_6BlY-63" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="财务" vertex="1">
+          <mxGeometry height="60" width="120" x="1000" y="-840" as="geometry" />
+        </mxCell>
+        <mxCell id="rdEgycdn7zfWjSr_6BlY-64" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;flipH=1;notch=0;legacyAnchorPoints=0;" value="财务介入" vertex="1">
+          <mxGeometry height="52.5" width="75" x="900" y="-836.25" as="geometry" />
+        </mxCell>
+        <mxCell id="rdEgycdn7zfWjSr_6BlY-65" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="各馆预算&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="120" x="1170" y="-875" as="geometry" />
+        </mxCell>
+        <mxCell id="rdEgycdn7zfWjSr_6BlY-66" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="人力成本预算&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="120" x="1170" y="-775" as="geometry" />
+        </mxCell>
+        <mxCell id="rdEgycdn7zfWjSr_6BlY-67" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="100" width="50" x="1120" y="-860" as="geometry" />
+        </mxCell>
+        <mxCell id="rdEgycdn7zfWjSr_6BlY-68" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=36;arcSize=26;" value="数贸会展商服务SOP" vertex="1">
+          <mxGeometry height="60" width="1040" x="250" y="-1090" as="geometry" />
+        </mxCell>
+        <mxCell id="rdEgycdn7zfWjSr_6BlY-69" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=36;fontStyle=1;textDirection=vertical-lr;verticalAlign=middle;" value="全周期运营" vertex="1">
+          <mxGeometry height="750" width="75" x="1350" y="-990" as="geometry" />
+        </mxCell>
+        <mxCell id="rdEgycdn7zfWjSr_6BlY-70" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="前期调研" vertex="1">
+          <mxGeometry height="30" width="120" x="450" y="-315" as="geometry" />
+        </mxCell>
+        <mxCell id="rdEgycdn7zfWjSr_6BlY-71" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="策展思路&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="120" x="450" y="-180" as="geometry" />
+        </mxCell>
+        <mxCell id="rdEgycdn7zfWjSr_6BlY-72" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="120" width="120" x="600" y="-360" as="geometry" />
+        </mxCell>
+        <mxCell id="rdEgycdn7zfWjSr_6BlY-73" parent="rdEgycdn7zfWjSr_6BlY-72" style="rounded=1;whiteSpace=wrap;html=1;" value="往届反馈" vertex="1">
+          <mxGeometry height="30" width="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rdEgycdn7zfWjSr_6BlY-74" parent="rdEgycdn7zfWjSr_6BlY-72" style="rounded=1;whiteSpace=wrap;html=1;" value="数据分析&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="120" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="rdEgycdn7zfWjSr_6BlY-75" parent="rdEgycdn7zfWjSr_6BlY-72" style="rounded=1;whiteSpace=wrap;html=1;" value="&amp;nbsp;政策研读" vertex="1">
+          <mxGeometry height="30" width="120" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rdEgycdn7zfWjSr_6BlY-76" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="100" width="30" x="570" y="-350" as="geometry" />
+        </mxCell>
+        <mxCell id="rdEgycdn7zfWjSr_6BlY-77" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="135" width="50" x="400" y="-300" as="geometry" />
+        </mxCell>
+        <mxCell id="rdEgycdn7zfWjSr_6BlY-78" edge="1" parent="1" source="rdEgycdn7zfWjSr_6BlY-76" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.507;exitY=0.499;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="rdEgycdn7zfWjSr_6BlY-74" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="610" y="-210" as="sourcePoint" />
+            <mxPoint x="660" y="-260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rdEgycdn7zfWjSr_6BlY-79" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="60" width="30" x="570" y="-197.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rdEgycdn7zfWjSr_6BlY-80" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="合作网络&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="120" x="600" y="-207.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rdEgycdn7zfWjSr_6BlY-81" edge="1" parent="1" source="rdEgycdn7zfWjSr_6BlY-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;startArrow=none;startFill=0;endArrow=none;endFill=0;" target="rdEgycdn7zfWjSr_6BlY-85" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rdEgycdn7zfWjSr_6BlY-82" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="合作伙伴&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="120" x="600" y="-152.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rdEgycdn7zfWjSr_6BlY-83" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="产业/政府补贴政策&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="120" x="740" y="-270" as="geometry" />
+        </mxCell>
+        <mxCell id="rdEgycdn7zfWjSr_6BlY-84" edge="1" parent="1" source="rdEgycdn7zfWjSr_6BlY-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;startArrow=none;startFill=0;endArrow=none;endFill=0;" target="rdEgycdn7zfWjSr_6BlY-83" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rdEgycdn7zfWjSr_6BlY-85" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="产业/城市&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="120" x="740" y="-152.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rdEgycdn7zfWjSr_6BlY-93" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="组展&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="120" x="450" y="-642.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rdEgycdn7zfWjSr_6BlY-94" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="60" width="30" x="570" y="-660" as="geometry" />
+        </mxCell>
+        <mxCell id="rdEgycdn7zfWjSr_6BlY-95" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="合作网络&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="120" x="600" y="-670" as="geometry" />
+        </mxCell>
+        <mxCell id="rdEgycdn7zfWjSr_6BlY-96" edge="1" parent="1" source="rdEgycdn7zfWjSr_6BlY-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;startArrow=none;startFill=0;endArrow=none;endFill=0;" target="rdEgycdn7zfWjSr_6BlY-98" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rdEgycdn7zfWjSr_6BlY-97" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="合作伙伴&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="120" x="600" y="-615" as="geometry" />
+        </mxCell>
+        <mxCell id="rdEgycdn7zfWjSr_6BlY-98" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="产业/城市&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="120" x="740" y="-615" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
