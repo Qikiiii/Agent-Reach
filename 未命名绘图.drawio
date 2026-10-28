@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="kUhTI6xOrrsTxFgFmQOL">
-    <mxGraphModel dx="-2223" dy="161" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-1169" dy="812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -57,6 +57,15 @@
         </mxCell>
         <mxCell id="e3QadundUHVnrU5qkjZI-259" edge="1" parent="1" source="e3QadundUHVnrU5qkjZI-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="e3QadundUHVnrU5qkjZI-258" value="">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e3QadundUHVnrU5qkjZI-328" edge="1" parent="1" source="e3QadundUHVnrU5qkjZI-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.008;entryY=0.622;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="e3QadundUHVnrU5qkjZI-327">
+          <mxGeometry relative="1" x="-0.0152" as="geometry">
+            <Array as="points">
+              <mxPoint x="4981" y="950" />
+              <mxPoint x="4830" y="950" />
+              <mxPoint x="4830" y="708" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="e3QadundUHVnrU5qkjZI-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=none;dashed=1;rotation=360;" value="" vertex="1">
           <mxGeometry height="436" width="390" x="4786" y="1044" as="geometry" />
@@ -670,10 +679,10 @@
           <mxGeometry height="30" width="120" x="4930" y="1744" as="geometry" />
         </mxCell>
         <mxCell id="e3QadundUHVnrU5qkjZI-293" edge="1" parent="1" source="e3QadundUHVnrU5qkjZI-294" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;dashed=1;" target="e3QadundUHVnrU5qkjZI-52">
-          <mxGeometry relative="1" x="0.0824" as="geometry">
+          <mxGeometry relative="1" x="0.0775" as="geometry">
             <Array as="points">
-              <mxPoint x="5817.9" y="1319" />
-              <mxPoint x="5817.9" y="1320" />
+              <mxPoint x="5850" y="1320" />
+              <mxPoint x="5850" y="1320" />
             </Array>
             <mxPoint x="5724.38" y="1305.25" as="targetPoint" />
           </mxGeometry>
@@ -698,7 +707,7 @@
           <mxGeometry height="30" width="120" x="5910.38" y="1401.25" as="geometry" />
         </mxCell>
         <mxCell id="e3QadundUHVnrU5qkjZI-305" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=none;dashed=1;rotation=360;" value="" vertex="1">
-          <mxGeometry height="215" width="160" x="5592.38" y="1237" as="geometry" />
+          <mxGeometry height="233" width="160" x="5592.38" y="1237" as="geometry" />
         </mxCell>
         <mxCell id="e3QadundUHVnrU5qkjZI-306" parent="1" style="rounded=1;whiteSpace=wrap;html=1;rotation=360;fillColor=#f8cecc;strokeColor=#b85450;" value="找客户+服务客户&amp;nbsp;" vertex="1">
           <mxGeometry height="30" width="120" x="4770" y="1008.25" as="geometry" />
@@ -764,6 +773,12 @@
         </mxCell>
         <mxCell id="e3QadundUHVnrU5qkjZI-256" parent="1" style="rounded=1;whiteSpace=wrap;html=1;rotation=360;" value="展览方案制定&amp;nbsp;" vertex="1">
           <mxGeometry height="30" width="120" x="5241" y="1226" as="geometry" />
+        </mxCell>
+        <mxCell id="e3QadundUHVnrU5qkjZI-327" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=none;dashed=1;rotation=360;" value="" vertex="1">
+          <mxGeometry height="150" width="312.5" x="5060" y="615" as="geometry" />
+        </mxCell>
+        <mxCell id="e3QadundUHVnrU5qkjZI-329" parent="1" style="rounded=1;whiteSpace=wrap;html=1;rotation=360;fillColor=#f8cecc;strokeColor=#b85450;" value="反推策展方案&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="120" x="4770" y="836" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
