@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="kUhTI6xOrrsTxFgFmQOL">
-    <mxGraphModel dx="-1836" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="283" dy="1686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -53,7 +53,7 @@
           <mxGeometry height="350" width="390" x="5330" y="1264" as="geometry" />
         </mxCell>
         <mxCell id="e3QadundUHVnrU5qkjZI-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=none;dashed=1;rotation=360;" value="" vertex="1">
-          <mxGeometry height="421" width="970" x="4820" y="1213" as="geometry" />
+          <mxGeometry height="421" width="970" x="4810" y="1213" as="geometry" />
         </mxCell>
         <mxCell id="e3QadundUHVnrU5qkjZI-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="To G&amp;nbsp;" vertex="1">
           <mxGeometry height="30" width="120" x="4575" y="1860.5" as="geometry" />
@@ -176,9 +176,6 @@
         </mxCell>
         <mxCell id="e3QadundUHVnrU5qkjZI-65" edge="1" parent="1" source="e3QadundUHVnrU5qkjZI-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="e3QadundUHVnrU5qkjZI-63" value="">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="e3QadundUHVnrU5qkjZI-66" parent="1" style="whiteSpace=wrap;html=1;rounded=1;rotation=360;align=center;" value="往届回访&lt;div&gt;合作网络&lt;div&gt;合作伙伴&lt;/div&gt;&lt;div&gt;组织观众&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="75" width="208.75" x="4486.25" y="1169" as="geometry" />
         </mxCell>
         <mxCell id="e3QadundUHVnrU5qkjZI-68" parent="1" style="whiteSpace=wrap;html=1;rounded=1;rotation=360;align=center;" value="推介会&lt;div&gt;宣传营销&lt;/div&gt;&lt;div&gt;供需匹配对接会&lt;/div&gt;&lt;div&gt;展位落位&lt;/div&gt;&lt;div&gt;展商信息收集&lt;/div&gt;" vertex="1">
           <mxGeometry height="75" width="208.75" x="4891.25" y="1434.5" as="geometry" />
