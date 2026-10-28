@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="kUhTI6xOrrsTxFgFmQOL">
-    <mxGraphModel dx="-638" dy="1148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-1548" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -139,7 +139,7 @@
           <mxGeometry height="30" width="120" x="5240" y="1010" as="geometry" />
         </mxCell>
         <mxCell id="e3QadundUHVnrU5qkjZI-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;rotation=360;" value="服务运营&amp;nbsp;" vertex="1">
-          <mxGeometry height="30" width="120" x="5442.38" y="1162" as="geometry" />
+          <mxGeometry height="30" width="120" x="5442.38" y="1210.13" as="geometry" />
         </mxCell>
         <mxCell id="e3QadundUHVnrU5qkjZI-45" edge="1" parent="1" source="e3QadundUHVnrU5qkjZI-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="e3QadundUHVnrU5qkjZI-71">
           <mxGeometry relative="1" as="geometry" />
@@ -156,20 +156,17 @@
         <mxCell id="e3QadundUHVnrU5qkjZI-49" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rotation=360;" value="成交客户" vertex="1">
           <mxGeometry height="60" width="128.75" x="5438" y="1076" as="geometry" />
         </mxCell>
-        <mxCell id="e3QadundUHVnrU5qkjZI-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;rotation=360;" value="信息收集&amp;nbsp;" vertex="1">
-          <mxGeometry height="30" width="120" x="5592.38" y="1057" as="geometry" />
-        </mxCell>
         <mxCell id="e3QadundUHVnrU5qkjZI-51" parent="1" style="rounded=1;whiteSpace=wrap;html=1;rotation=360;" value="展位落位&amp;nbsp;" vertex="1">
           <mxGeometry height="30" width="120" x="5239.5" y="1281" as="geometry" />
         </mxCell>
         <mxCell id="e3QadundUHVnrU5qkjZI-52" parent="1" style="rounded=1;whiteSpace=wrap;html=1;rotation=360;" value="展位搭建&amp;nbsp;" vertex="1">
-          <mxGeometry height="30" width="120" x="5592.38" y="1159" as="geometry" />
+          <mxGeometry height="30" width="120" x="5604.76" y="1290.25" as="geometry" />
         </mxCell>
         <mxCell id="e3QadundUHVnrU5qkjZI-53" parent="1" style="rounded=1;whiteSpace=wrap;html=1;rotation=360;" value="商贸匹配&amp;nbsp;" vertex="1">
-          <mxGeometry height="30" width="120" x="5592.38" y="1210" as="geometry" />
+          <mxGeometry height="30" width="120" x="5604.76" y="1341.25" as="geometry" />
         </mxCell>
         <mxCell id="e3QadundUHVnrU5qkjZI-54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;rotation=360;" value="商务合作&amp;nbsp;" vertex="1">
-          <mxGeometry height="30" width="120" x="5592.38" y="1270" as="geometry" />
+          <mxGeometry height="30" width="120" x="5604.76" y="1401.25" as="geometry" />
         </mxCell>
         <mxCell id="e3QadundUHVnrU5qkjZI-63" parent="1" style="rounded=1;whiteSpace=wrap;html=1;rotation=360;" value="后期80%&amp;nbsp;" vertex="1">
           <mxGeometry height="30" width="120" x="5036" y="1380" as="geometry" />
@@ -187,7 +184,7 @@
           <mxGeometry height="30" width="120" x="5036" y="1260" as="geometry" />
         </mxCell>
         <mxCell id="e3QadundUHVnrU5qkjZI-73" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;labelPerimeter=1;rotation=360;" value="" vertex="1">
-          <mxGeometry height="215" width="30" x="5562.38" y="1071.5" as="geometry" />
+          <mxGeometry height="215" width="30" x="5562.38" y="1119.63" as="geometry" />
         </mxCell>
         <mxCell id="e3QadundUHVnrU5qkjZI-78" edge="1" parent="1" source="e3QadundUHVnrU5qkjZI-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;endArrow=none;endFill=0;" target="e3QadundUHVnrU5qkjZI-103" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -227,17 +224,14 @@
             <mxPoint x="5284.75" y="2474" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e3QadundUHVnrU5qkjZI-95" edge="1" parent="1" source="e3QadundUHVnrU5qkjZI-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;dashed=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="e3QadundUHVnrU5qkjZI-261">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="e3QadundUHVnrU5qkjZI-96" parent="1" style="whiteSpace=wrap;html=1;rounded=1;rotation=360;" value="平台建设组&amp;nbsp;" vertex="1">
-          <mxGeometry height="30" width="120" x="5920" y="1033.25" as="geometry" />
+          <mxGeometry height="30" width="120" x="5900" y="1081.38" as="geometry" />
         </mxCell>
         <mxCell id="e3QadundUHVnrU5qkjZI-101" edge="1" parent="1" source="e3QadundUHVnrU5qkjZI-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;dashed=1;" target="e3QadundUHVnrU5qkjZI-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e3QadundUHVnrU5qkjZI-102" parent="1" style="whiteSpace=wrap;html=1;rounded=1;rotation=360;" value="客商组&amp;nbsp;" vertex="1">
-          <mxGeometry height="30" width="120" x="5898" y="1210" as="geometry" />
+          <mxGeometry height="30" width="120" x="5910.38" y="1341.25" as="geometry" />
         </mxCell>
         <mxCell id="e3QadundUHVnrU5qkjZI-103" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="落地服务保障&amp;nbsp;" vertex="1">
           <mxGeometry height="30" width="120" x="5245" y="1784" as="geometry" />
@@ -635,18 +629,6 @@
         <mxCell id="e3QadundUHVnrU5qkjZI-260" edge="1" parent="1" source="e3QadundUHVnrU5qkjZI-258" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="e3QadundUHVnrU5qkjZI-10" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e3QadundUHVnrU5qkjZI-264" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="67.5" width="80" x="5730" y="1038.25" as="geometry" />
-        </mxCell>
-        <mxCell id="e3QadundUHVnrU5qkjZI-261" parent="e3QadundUHVnrU5qkjZI-264" style="whiteSpace=wrap;html=1;rounded=1;rotation=360;" value="企业/展品信息" vertex="1">
-          <mxGeometry height="20" width="80" as="geometry" />
-        </mxCell>
-        <mxCell id="e3QadundUHVnrU5qkjZI-262" parent="e3QadundUHVnrU5qkjZI-264" style="whiteSpace=wrap;html=1;rounded=1;rotation=360;" value="宣传亮点&amp;nbsp;" vertex="1">
-          <mxGeometry height="20" width="80" y="23.61999999999989" as="geometry" />
-        </mxCell>
-        <mxCell id="e3QadundUHVnrU5qkjZI-263" parent="e3QadundUHVnrU5qkjZI-264" style="whiteSpace=wrap;html=1;rounded=1;rotation=360;" value="意向客户&amp;nbsp;" vertex="1">
-          <mxGeometry height="20" width="80" y="47.5" as="geometry" />
-        </mxCell>
         <mxCell id="e3QadundUHVnrU5qkjZI-266" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="服务保障&amp;nbsp;" vertex="1">
           <mxGeometry height="30" width="120" x="4930" y="1860.5" as="geometry" />
         </mxCell>
@@ -682,36 +664,33 @@
         </mxCell>
         <mxCell id="e3QadundUHVnrU5qkjZI-293" edge="1" parent="1" source="e3QadundUHVnrU5qkjZI-294" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;dashed=1;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="5712" y="1174" as="targetPoint" />
+            <mxPoint x="5724.38" y="1305.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e3QadundUHVnrU5qkjZI-294" parent="1" style="whiteSpace=wrap;html=1;rounded=1;rotation=360;" value="运营保障&amp;nbsp;" vertex="1">
-          <mxGeometry height="30" width="120" x="5898" y="1159" as="geometry" />
-        </mxCell>
-        <mxCell id="e3QadundUHVnrU5qkjZI-299" parent="1" style="rounded=1;whiteSpace=wrap;html=1;rotation=360;fillColor=#f8cecc;strokeColor=#b85450;" value="需求对接&amp;nbsp;" vertex="1">
-          <mxGeometry height="30" width="120" x="5490" y="1347" as="geometry" />
+        <mxCell id="e3QadundUHVnrU5qkjZI-294" parent="1" style="whiteSpace=wrap;html=1;rounded=1;rotation=360;" value="运营保障组" vertex="1">
+          <mxGeometry height="30" width="120" x="5910.38" y="1290.25" as="geometry" />
         </mxCell>
         <mxCell id="e3QadundUHVnrU5qkjZI-300" parent="1" style="rounded=1;whiteSpace=wrap;html=1;rotation=360;" value="宣传曝光&amp;nbsp;" vertex="1">
-          <mxGeometry height="30" width="120" x="5592.38" y="1124.37" as="geometry" />
+          <mxGeometry height="30" width="120" x="5604.76" y="1255.62" as="geometry" />
         </mxCell>
         <mxCell id="e3QadundUHVnrU5qkjZI-301" edge="1" parent="1" source="e3QadundUHVnrU5qkjZI-302" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;dashed=1;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="5712" y="1139" as="targetPoint" />
+            <mxPoint x="5724.38" y="1270.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="e3QadundUHVnrU5qkjZI-302" parent="1" style="whiteSpace=wrap;html=1;rounded=1;rotation=360;" value="宣传营销组&amp;nbsp;" vertex="1">
-          <mxGeometry height="30" width="120" x="5898" y="1124" as="geometry" />
+          <mxGeometry height="30" width="120" x="5910.38" y="1255.25" as="geometry" />
         </mxCell>
         <mxCell id="e3QadundUHVnrU5qkjZI-303" edge="1" parent="1" source="e3QadundUHVnrU5qkjZI-304" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;dashed=1;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="5712" y="1285" as="targetPoint" />
+            <mxPoint x="5724.38" y="1416.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e3QadundUHVnrU5qkjZI-304" parent="1" style="whiteSpace=wrap;html=1;rounded=1;rotation=360;" value="客商组&amp;nbsp;" vertex="1">
-          <mxGeometry height="30" width="120" x="5898" y="1270" as="geometry" />
+        <mxCell id="e3QadundUHVnrU5qkjZI-304" parent="1" style="whiteSpace=wrap;html=1;rounded=1;rotation=360;" value="商务开发组&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="120" x="5910.38" y="1401.25" as="geometry" />
         </mxCell>
         <mxCell id="e3QadundUHVnrU5qkjZI-305" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=none;dashed=1;rotation=360;" value="" vertex="1">
-          <mxGeometry height="215" width="160" x="5580" y="1105.75" as="geometry" />
+          <mxGeometry height="215" width="160" x="5592.38" y="1237" as="geometry" />
         </mxCell>
         <mxCell id="e3QadundUHVnrU5qkjZI-306" parent="1" style="rounded=1;whiteSpace=wrap;html=1;rotation=360;fillColor=#f8cecc;strokeColor=#b85450;" value="找客户+服务客户&amp;nbsp;" vertex="1">
           <mxGeometry height="30" width="120" x="4770" y="1008.25" as="geometry" />
@@ -727,6 +706,33 @@
         </mxCell>
         <mxCell id="e3QadundUHVnrU5qkjZI-311" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;labelPerimeter=1;direction=south;" value="" vertex="1">
           <mxGeometry height="30" width="90" x="4608" y="2020" as="geometry" />
+        </mxCell>
+        <mxCell id="e3QadundUHVnrU5qkjZI-314" edge="1" parent="1" source="e3QadundUHVnrU5qkjZI-313" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="e3QadundUHVnrU5qkjZI-305" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e3QadundUHVnrU5qkjZI-299" parent="1" style="rounded=1;whiteSpace=wrap;html=1;rotation=360;fillColor=#f8cecc;strokeColor=#b85450;" value="需求对接&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="120" x="5632.38" y="1187.13" as="geometry" />
+        </mxCell>
+        <mxCell id="e3QadundUHVnrU5qkjZI-313" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=none;dashed=1;rotation=360;" value="" vertex="1">
+          <mxGeometry height="110" width="265" x="5585" y="1064" as="geometry" />
+        </mxCell>
+        <mxCell id="e3QadundUHVnrU5qkjZI-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;rotation=360;" value="信息收集&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="120" x="5592.38" y="1105.13" as="geometry" />
+        </mxCell>
+        <mxCell id="e3QadundUHVnrU5qkjZI-264" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="67.5" width="80" x="5730" y="1072.13" as="geometry" />
+        </mxCell>
+        <mxCell id="e3QadundUHVnrU5qkjZI-261" parent="e3QadundUHVnrU5qkjZI-264" style="whiteSpace=wrap;html=1;rounded=1;rotation=360;" value="企业/展品信息" vertex="1">
+          <mxGeometry height="20" width="80" as="geometry" />
+        </mxCell>
+        <mxCell id="e3QadundUHVnrU5qkjZI-262" parent="e3QadundUHVnrU5qkjZI-264" style="whiteSpace=wrap;html=1;rounded=1;rotation=360;" value="宣传亮点&amp;nbsp;" vertex="1">
+          <mxGeometry height="20" width="80" y="23.61999999999989" as="geometry" />
+        </mxCell>
+        <mxCell id="e3QadundUHVnrU5qkjZI-263" parent="e3QadundUHVnrU5qkjZI-264" style="whiteSpace=wrap;html=1;rounded=1;rotation=360;" value="意向客户&amp;nbsp;" vertex="1">
+          <mxGeometry height="20" width="80" y="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="e3QadundUHVnrU5qkjZI-315" parent="1" style="whiteSpace=wrap;html=1;rounded=1;rotation=360;" value="......&amp;nbsp;" vertex="1">
+          <mxGeometry height="20" width="80" x="5730" y="1145.88" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
